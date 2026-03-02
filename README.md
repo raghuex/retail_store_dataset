@@ -1,3 +1,5 @@
 # retail_store_dataset
-Importind dataset next time stay tuned
+
+Data source: kaggle
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
 
